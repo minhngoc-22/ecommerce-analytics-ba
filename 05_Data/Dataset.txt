@@ -1,0 +1,4 @@
+Since the dataset is way bigger than 25MB, therefore, I cannot upload the whole raw dataset to Github.
+
+Here's the dataset link: 
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download
