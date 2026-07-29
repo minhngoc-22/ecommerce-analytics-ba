@@ -70,18 +70,17 @@ ecommerce-analytics-ba-portfolio/
 │   └── Discovery Report.docx
 │
 ├── 02_analysis/
-│   ├── Analysis Report.docx
-│   └── BPMN (optional)
+│   └── Analysis Report.docx
 │
 ├── 03_documentation/
 │   ├── BRD.docx
 │   └── Dashboard Requirements.docx
 │
 ├── 04_design/
-│   └── Dashboard Wireframe.pdf
+│   └── Dashboard Wireframe.png
 │
 ├── 05_data/
-│   ├── Dataset.xlsx
+│   ├── Dataset.txt
 │   ├── SQL Queries.sql
 │   └── Excel Dashboard.xlsx
 │
@@ -90,8 +89,7 @@ ecommerce-analytics-ba-portfolio/
 │
 ├── assets/
 │   ├── dashboard.png
-│   ├── wireframe.png
-│   └── architecture.png
+│   └── wireframe.png
 │
 └── README.md
 ```
