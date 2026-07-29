@@ -200,6 +200,7 @@ The SQL scripts are available in:
 * SQL (SQLite / DBeaver)
 * Microsoft Excel
 * Microsoft Word
+* Figma Stitch (AI Wireframe / Dashboard layout)
 * VS Code
 * GitHub
 
