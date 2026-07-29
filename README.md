@@ -98,8 +98,6 @@ ecommerce-analytics-ba-portfolio/
 
 # Dashboard Preview
 
-Example:
-
 <img width="1268" height="445" alt="dashboard_preview" src="https://github.com/user-attachments/assets/da92bbf0-7565-4c6c-8941-dde3716bc118" />
 
 ---
